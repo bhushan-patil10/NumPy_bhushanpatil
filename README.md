@@ -16,13 +16,22 @@ This repository contains:
 ### 🔹  Loading Data using Numpy**
 - **Description:** This script demonstrates how to load data from a CSV file using `np.loadtxt()`  
 - **Key Functions Used:**
-  - `np.loadtxt()`: Loads numerical data from text files.
+  
+  
+  - `Creating 1D, 2D array`,
+  - `Slicing and Indexing`
+  - `np.linspace`,
+  - `array concatenate`
+  - `Basic arithmetics operation`
+  - `Soerting the array`
+  - `arange arrays`
+  - `random.rand`
+  -  `np.loadtxt()`: Loads numerical data from text files.
   -  `np.concatenate()`: Combines multiple arrays.
   - `np.reshape()`: Changes the shape of an array.
   - `np.mean()`, `np.std()`, `np.sum()`: Basic statistical operations.
-  - `np.linspace`,
-  - `Slicing`
-  - Creating 2D array, 
+  
+  
     
 ---
 
